@@ -1,0 +1,41 @@
+{
+  "users": [
+    {
+      "date": "2023-05-30",
+      "text": "Five Reasons to Stay at Villa Resort",
+      "price": "255",
+      "img": "./images/img_3.jpg",
+      "id": 3
+    },
+    {
+      "date": "1972-08-05",
+      "text": "Non non debitis at v",
+      "price": "714",
+      "img": "./images/img_2.jpg",
+      "id": 4
+    },
+    {
+      "date": "2023-05-02",
+      "text": "Ex veritatis mollit ",
+      "price": "336",
+      "img": "./images/img_1.jpg",
+      "id": 5
+    },
+    {
+      "date": "1976-12-09",
+      "text": "Nihil minus nesciunt",
+      "price": "623",
+      "img": "./images/img_5.jpg",
+      "id": 6
+    }
+  ],
+  "favusers": [
+    {
+      "date": "1972-08-05",
+      "text": "Non non debitis at v",
+      "price": "714",
+      "img": "./images/img_2.jpg",
+      "id": 4
+    }
+  ]
+}

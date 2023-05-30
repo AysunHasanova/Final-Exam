@@ -1,0 +1,26 @@
+.enjoy-section {
+  padding: 20px 0 200px 0;
+  .head-text {
+    padding: 0 20%;
+    text-align: center;
+    h1 {
+      font-size: 80px;
+    }
+    p {
+      padding: 10px 30px;
+      font-size: 20px;
+      opacity: 0.7;
+    }
+  }
+  @media only screen and (max-width: 992px) {
+    .head-text {
+      padding: 0;
+      h1 {
+        font-size: 40px;
+      }
+      p {
+        font-size: 16px;
+      }
+    }
+  }
+}
